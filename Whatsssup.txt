@@ -17,3 +17,5 @@ Author: Spmselva
 7. Adding the video call feature
 
 8. Adding status update videos- This has been done after forking from spmselva. This is spmraja account.
+
+9. Adding an option to Group allows 100 users.
