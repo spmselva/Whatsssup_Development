@@ -18,6 +18,6 @@ Author: Spmselva
 
 8. Adding status update videos- This has been done after forking from spmselva. This is spmraja account.
 
-9. Adding an option to Group allows 100 users.
+9. Adding an option to Group allows 200 users.
 
 10. Added to set dp private.
